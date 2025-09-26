@@ -63,13 +63,13 @@ author:
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      url: "https://scholar.google.com/" #CHANGE THIS
+      url: "https://scholar.google.com/citations?user=22zmAiIAAAAJ&hl=en" #CHANGE THIS
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/sean-reese" #CHANGE THIS
+ #   - label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/sean-reese" #CHANGE THIS
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
