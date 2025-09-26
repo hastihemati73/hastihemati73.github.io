@@ -7,16 +7,28 @@ title: "Research"
 
 ### Working Papers
 ---
-If only I had something to put here ;-;
+
 
 ### Publications
 ---
-[Air Climate Equity in US Climate Policy](https://www.pnas.org/doi/10.1073/pnas.2217124120) - PNAS (2023)
-<p style="font-size:12px;">(with Pascal Polonik, Kate Ricke, and Jen Burney)</p>
+[Water allocation using game theory under climate change impact (case study: Zarinehrood)](https://www.pnas.org/doi/10.1073/pnas.2217124120) - PNAS (2021)
+<p style="font-size:12px;">(Ahmad Abrishamchi)</p>
 ![My photo]({{ "/assets/images/AirFig.jpg" | relative_url }}){: width="300"}
 <details>
   <summary>Abstract</summary>
-  <p style="font-size:12px;"> The United States government has indicated a desire to advance environmental justice through climate policy. As fossil fuel combustion produces both conventional pollutants and greenhouse gas (GHG) emissions, climate mitigation strategies may provide an opportunity to address historical inequities in air pollution exposure. To test the impact of climate policy implementation choices on air quality equity, we develop a broad range of GHG reduction scenarios that are each consistent with the US Paris Accord target and model the resulting air pollution changes. Using idealized decision criteria, we show that least cost and income-based emission reductions can exacerbate air pollution disparities for communities of color. With a suite of randomized experiments that facilitates exploration of a wider climate policy decision space, we show that disparities largely persist despite declines in average pollution exposure, but that reducing transportation emissions has the most potential to reduce racial inequities. </p>
+  <p style="font-size:12px;"> The combined effects of climate change and growing water demand due to population growth, industrial and agricultural developments cause an increase in water scarcity and the subsequent
+environmental crisis in river basins, which results in conflicts over the property rights and allocation
+agreements. Thus, an integrated, sustainable and efficient water allocation considering changes in
+water resources due to climate change and change of users’ demands is necessary. In this study, the
+drainage basin of Zarinehrood was chosen to evaluate the function of selective methods. Assessing
+climate change impact scenarios of the Fifth IPCC reports, e.g., RCP2.6, RCP4.5, RCP6.0 and RCP8.5,
+have been used. For downscaling outputs of GCMs an artificial neural network (ANN) and for bias
+correction a quantile mapping (QM) method have been used. Using a bargaining game and the Nash
+bargaining solution (NBS) with two methods, one symmetric and two AHP methods, the water
+available for users was allocated. Results indicate an overall increase in temperature and
+precipitation in the basin. In bargaining game solutions, AHP provided better utilities for players than
+the symmetric method. These results show that with water management programs and use of a
+cooperative bargaining game, water allocation can be done in an efficient way. </p>
 </details>
 
 ### Work In Progress
